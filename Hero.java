@@ -44,6 +44,6 @@ class Paladin extends Hero {
     public void attack() {
         System.out.println(name + " strikes with lighting padol!");
     }
-
+}
 
 }
