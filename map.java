@@ -1,5 +1,5 @@
-public class Map {
-    public class String theme;
+public class map {
+    public String theme;
 
 
     public map(String theme) {
