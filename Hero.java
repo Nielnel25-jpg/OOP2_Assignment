@@ -34,6 +34,7 @@ class Archer extends Hero {
     public void attack() {
         System.out.println(name + " fires a Longbow arrow!");
     }
+}
 
 class Paladin extends Hero {
     public Paladin(String name) {
@@ -46,4 +47,3 @@ class Paladin extends Hero {
     }
 }
 
-}

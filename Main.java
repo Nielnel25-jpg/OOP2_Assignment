@@ -4,9 +4,9 @@ public class Main {
     public static void main(String[] args) {
       
         Scanner scanner = new Scanner(System.in);
-        GameStats stats = new GameStats();
+        Gamestats stats = new Gamestats();
         Inventory backpack = new Inventory();
-        BattleController engine = new BattleController();
+        battController engine = new battController();
         Dungeon level1 = new Dungeon();
 
         System.out.println("=== HERO BATTLE ENGINE ===");

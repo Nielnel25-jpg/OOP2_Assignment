@@ -1,4 +1,4 @@
-class GameStats {
+class Gamestats {
     private int exp = 0;
 
     public void gainXP(int amount) {
